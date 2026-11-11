@@ -29,5 +29,11 @@ A IA já está transformando setores inteiros: ajuda médicos com diagnósticos 
 
 Porém, toda essa evolução precisa ser feita com cuidado. A tecnologia tem que ser justa, transparente e acessível para todo mundo. No fim das contas, o caminho que a inteligência artificial vai seguir depende muito mais da responsabilidade e das escolhas da nossa sociedade do que da ferramenta em si.
 
-Resumo geral:
-A IA é treinada com dados; se esses dados forem fracos, ela gera viés, e se ela apenas decorar o conteúdo, acontece o overfitting. Os algoritmos de recomendação tentam segurar nosso tempo de tela (o que pode nos isolar em bolhas), tornando a privacidade e os guardrails essenciais para manter a segurança. O futuro dessa tecnologia depende do uso ético que faremos dela.
+7. Impacto Ambiental
+​Os computadores que mantêm a IA consomem muita energia e água. O desafio é torná-los mais eficientes e sustentáveis.
+
+​8. Alucinação da IA
+​Às vezes a IA inventa fatos com convicção. Por isso, as informações produzidas por ela sempre precisam ser checadas.
+
+Conclusão Resumida
+​A IA aprende com nossos dados e precisa de limites (guardrails e privacidade) para evitar vieses, alucinações e bolhas. Ela é uma ferramenta de apoio: a responsabilidade, a checagem dos fatos e o uso ético continuam sendo 100% humanos.
